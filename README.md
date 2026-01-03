@@ -1,1 +1,0 @@
-# Rastreador_de_Objeto_script
